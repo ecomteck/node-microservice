@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "mocha -R spec spec.js"
   },
-  "author": "",
+  "author": "Ecomteck",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
